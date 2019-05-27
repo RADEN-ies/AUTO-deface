@@ -1,0 +1,13 @@
+    $ apt update
+
+    $ apt upgrade
+
+    $ apt install git
+
+    $ git clone https://github.com/RADEN-ies/AUTO-deface
+
+    $ cd AutoDeface
+
+    $ chmod +x *
+
+    $ ./deface.sh 
